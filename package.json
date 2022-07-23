@@ -41,6 +41,7 @@
     ]
   },
   "overrides": {
-    "react": "$react"
+    "react": "$react",
+    "react-dom": "$react-dom"
   }
 }
